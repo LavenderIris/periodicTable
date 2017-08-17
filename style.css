@@ -1,0 +1,150 @@
+#text_red{
+    color: red;
+    font-family: sans-serif;
+    font-size: 12px;
+}
+
+#topbar{
+    width: 816px;
+    list-style: none;
+    display: flex;
+    background-color: #eeeeee;
+    justify-content: space-around;
+    /* padding: 0px 0px; */
+    margin: 0px auto;
+    vertical-align: top;
+    position: relative;
+    bottom: 356px;
+    
+}
+
+#wrapper{
+    width: 900px;
+    height: 500px;
+    background-color: #eeeeee;
+    vertical-align: top;
+
+}
+
+#sidebar{
+    width: 44px;
+    height: 350px;
+     list-style: none; 
+    /* display: flex; */
+    /* display: block; */
+    justify-content: space-around; 
+    padding: 3px 12px; 
+    z-index: 1;
+    position: relative;
+    
+}
+
+#sidebar li{
+    margin: 0 0 28px 0;
+    text-align: center;
+}
+
+.pad_between2_3{
+    padding-left: 17px;
+}
+
+#margin_between_2_3{
+    margin-left: 10px;
+}
+
+.column1{
+     background-color: #eeeeee;
+    width: 43px;
+    height: 309px;
+    display: inline-block;
+   
+    margin-left: -2px;
+}
+
+#periodic_content{
+    width: 819px;
+    height: 305px;
+    position: relative;
+     background-color: #eeeeee;
+    bottom: 343px;
+    left: 61px;
+    display: inline-block;
+}
+
+#bottom_panel {
+    width: 753px;
+    height: 98px;
+    /* background-color: tan; */
+    display: inline-block;
+    margin-left: 62px;
+    position: relative;
+    bottom: 307px;
+}
+
+#bottom_words{
+    width: 107px;
+    height: 92px;
+    /* background-color: blue; */
+    display: inline-block;
+
+}
+
+.bottom_row{
+    width: 604px;
+    height: 43px;
+    /* background-color: purple; */
+    display: inline-block;
+    vertical-align: top;
+}
+
+#bottom_row_padding {
+    position: relative;
+    left: 110px;
+    bottom: 48px;
+}
+
+.box1{
+    width: 40px;
+    height: 40px;
+    background-color: #689bff;
+    border: 1px black solid;
+    display: inline-block;
+    margin-bottom: -2px;
+    margin-right: -2px;
+    margin-left: -2px;
+}
+
+.pink_section {
+    background-color: #fd9a98;
+}
+
+.orange_section{
+    background-color: #fecb00;
+
+}
+
+.smallfont{
+    font-size: 8px;
+    color: black;
+    text-align: center;
+}
+
+.mid_text{
+    font-size: 14px;
+    font-weight: bold;
+    color: blue;
+}
+
+.clear{
+    background-color: #eeeeee;
+    border: none;
+}
+
+.green_section{
+    background-color: #1fca21;
+    margin-left:1px;
+}
+
+#pad_between_G_1{
+    padding-left: 14px;
+}
