@@ -28,10 +28,8 @@
 
 #sidebar{
     width: 44px;
-    height: 350px;
+    height: 359px;
      list-style: none; 
-    /* display: flex; */
-    /* display: block; */
     justify-content: space-around; 
     padding: 3px 12px; 
     z-index: 1;
@@ -147,4 +145,12 @@
 
 #pad_between_G_1{
     padding-left: 14px;
+}
+
+#pad_between_Group_1{
+    padding-top: -6px;
+}
+
+#pad_between_16_17{
+    padding-left:-5px;
 }
